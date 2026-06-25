@@ -68,7 +68,7 @@ The first gate establishes the foundation for the reasoning model. Additional ga
 
 ### Current roadmap
 
-✅ **Gate 1 — Earn Qualified Attention**
+✅ **[Gate 1 — Earn Qualified Attention]([url](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/bd16416ca5f81319ebcee3b117473a093abdb090/gate1.md))**
 
 The first published gate explores how creative earns attention from its intended audience and introduces the concept of **Qualified Attention** as the foundation for all subsequent evaluation.
 
