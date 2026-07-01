@@ -1,4 +1,7 @@
 # Gate 1 — Earn Qualified Attention
+## 🧱 Foundational Truth
+> ### People notice before they engage.
+
 ## 🎯 Objective
 The first responsibility of an image is to earn **Qualified Attention**.
 
@@ -95,7 +98,7 @@ The image is ignored, misunderstood, or earns attention for reasons unrelated to
 ## Recommendation Framework
 Every recommendation should connect:
 
-> ### Creative Decision → Audience Behaviour → Business Outcome
+> ### Observation → Reasoning → Recommendation → Desired Audience Behaviour
 
 Don't simply explain what should change.
 
