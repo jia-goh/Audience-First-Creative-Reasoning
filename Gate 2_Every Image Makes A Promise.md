@@ -1,8 +1,6 @@
 # Gate 2 — Every Image Makes a Promise
-
 ## 🧱 Foundational Truth
-
-## People predict before they experience.
+> ### People predict before they experience.
 
 ## 🎯 Objective
 
@@ -18,7 +16,7 @@ When that promise accurately reflects what follows, audiences are more likely to
 
 ## 🤔 Why It Matters 
 
-## Once an image has earned attention, it begins shaping what the audience expects.
+> ### Once an image has earned attention, it begins shaping what the audience expects.
 
 Audiences instinctively use visual signals to predict the kind of experience they can expect, whether they are choosing a film, a product, an article, or a social post. Whether intentional or not, every image shapes that prediction. Every image therefore makes a promise.
 
@@ -30,7 +28,7 @@ By consistently making promises that the experience can keep, creative helps aud
 
 ## 👤 How the Audience Thinks
 
-## People don't interpret images in isolation. They interpret them through what they already know.
+> ### People don't interpret images in isolation. They interpret them through what they already know.
 
 Previous experiences, familiar patterns, and cultural conventions shape the expectations audiences bring to every image. These learned patterns help people quickly predict the kind of experience they can expect without consciously analysing every visual detail.
 
@@ -62,46 +60,38 @@ Every recommendation should explain **why** a creative decision is expected to i
 
 Structure recommendations using the following reasoning sequence:
 
-### **Observation**
+### 📍 **Observation**
 
 Describe what the image is currently communicating.
 
-### **Reasoning**
+### 📍 **Reasoning**
 
 Explain how audiences are likely to interpret the image and why this strengthens or weakens the promise.
 
-### **Recommendation**
+### 📍 **Recommendation**
 
-**Recommend the objective, not the execution.**
+> **Recommend the objective, not the execution.**
 
 Define what the creative needs to achieve before suggesting how to achieve it. Once the objective is clear, offer one or more possible creative approaches rather than prescribing a single solution. The strongest execution should always be determined by the creative team.
 
-### **Desired Audience Outcome**
-
+### 📍 **Desired Audience Outcome**  
 Explain how the recommendation is expected to improve audience understanding, confidence, or decision-making.
 
----
-
-### **Example**
+### **Example** 
 
 Instead of saying:
-
-**Recommendation**
 
 *Make the face bigger.*
 
 Reason like this:
 
-**Observation**
-
+***Observation*** \
 The artwork gives equal visual weight to multiple characters, making it unclear who the story centres on.
 
-**Reasoning**
-
+***Reasoning*** \
 Audiences are likely to interpret the image as an ensemble story. However, the experience follows a single protagonist, creating a weaker promise about who they should emotionally invest in.
 
-**Recommendation**
-
+***Recommendation*** \
 Strengthen the visual emphasis on the story's primary emotional focus so the promise more accurately reflects the experience audiences will receive.
 
 Possible creative approaches could include:
@@ -114,9 +104,9 @@ Possible creative approaches could include:
 
 The most appropriate approach depends on the creative concept and should be determined by the creative team.
 
-**Desired Audience Outcome**
-
+***Desired Audience Outcome*** \
 Audiences more quickly recognise who the story centres on, creating a clearer promise and greater confidence that the experience matches their expectations.
+
 
 ## 🧠 Reviewer's Creed
 
