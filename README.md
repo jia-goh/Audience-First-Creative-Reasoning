@@ -72,9 +72,13 @@ The first gate establishes the foundation for the reasoning model. Additional ga
 
 The first published gate explores how creative earns attention from its intended audience and introduces the concept of **Qualified Attention** as the foundation for all subsequent evaluation.
 
-🚧 **Gate 2 — Every Image Makes a Promise** *(currently in development)*
+✅ **Gate 2 — Every Image Makes a Promise** [LINK](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/bd16416ca5f81319ebcee3b117473a093abdb090/gate1.md)
 
-The next gate explores how audiences form expectations from visual cues within the first moments of viewing, and why aligning that promise with the underlying content is critical for building trust and sustaining engagement.
+This gate explores how audiences form expectations from visual cues within the first moments of viewing, and why aligning that promise with the underlying content is critical for building trust and sustaining engagement.
+
+🚧 **Gate 3 – The Audience is Scanning, Not Studying** *(currently in development)*
+
+This gate explores how audiences rapidly scan visual information before deciding whether to engage, and why reducing cognitive effort helps communicate the story more quickly and accurately.
 
 🚧 **Additional Reasoning Gates** *(currently in development)*
 
