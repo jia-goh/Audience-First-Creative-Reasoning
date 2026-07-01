@@ -95,7 +95,7 @@ The image earns Qualified Attention through authentic and relevant visual signal
 **FAIL** ❌
 The image is ignored, misunderstood, or earns attention for reasons unrelated to the story or intended audience. If this gate is not passed, recommendations should focus on improving Qualified Attention before evaluating any subsequent gates.
 
-## Recommendation Framework
+## ✨ Recommendation Framework
 Every recommendation should connect:
 
 > ### Observation → Reasoning → Recommendation → Desired Audience Behaviour
@@ -110,7 +110,7 @@ For example:
 
 ✅ Increase the protagonist's visual prominence so viewers can identify the emotional anchor more quickly. Faster recognition reduces cognitive effort during the first second of viewing, increasing the likelihood that the intended audience invests another second and continues exploring the content.
 
-## Reviewer's Creed
+## 🧠 Reviewer's Creed
 
 Creative should not optimise for the most attention.
 
