@@ -40,19 +40,19 @@ This is why effective creative should reduce uncertainty about what the experien
 
 A creative passes Gate 2 when the promise it makes accurately reflects the experience that follows.
 
-**What promise is this image making, and does the experience deliver on that promise?**
+👉 ***What promise is this image making, and does the experience deliver on that promise?***
 
 A promise only succeeds when the experience fulfils the expectation it creates. If the promise and experience are misaligned, the audience experiences a **False Promise**, weakening confidence over time.
 
-**What expectations is your intended audience likely to bring to this image?**
+👉 ***What expectations is your intended audience likely to bring to this image?***
 
 Audiences don't interpret images in isolation. They bring previous experiences, familiar patterns, and cultural knowledge that shape how they interpret what they see. Understanding those expectations helps reviewers evaluate the promise the image is actually making—whether it reinforces, reinterprets, or deliberately subverts those expectations.
 
-**Would different members of your intended audience describe the same promise?**
+👉 ***Would different members of your intended audience describe the same promise?***
 
 If the intended audience interprets different promises from the same image, the creative is introducing ambiguity before the experience even begins. A strong promise should be understood consistently, even if individual reactions to that promise differ.
 
-**Remember:** Gate 2 evaluates whether the promise is kept—not whether the experience itself is good.
+☝️ ***Remember:*** Gate 2 evaluates whether the promise is kept—not whether the experience itself is good.
 
 ## ✨Recommendation Framework
 
