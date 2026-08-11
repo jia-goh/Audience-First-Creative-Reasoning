@@ -76,7 +76,7 @@ The first published gate explores how creative earns attention from its intended
 
 This gate explores how audiences form expectations from visual cues within the first moments of viewing, and why aligning that promise with the underlying content is critical for building trust and sustaining engagement.
 
-🚧 **Gate 3 – The Audience is Scanning, Not Studying** *(currently in development)*
+✅ **Gate 3 – The Audience is Scanning, Not Studying** *(currently in development)*
 
 This gate explores how audiences rapidly scan visual information before deciding whether to engage, and why reducing cognitive effort helps communicate the story more quickly and accurately.
 
