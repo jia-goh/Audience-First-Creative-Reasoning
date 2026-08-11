@@ -76,9 +76,12 @@ The first published gate explores how creative earns attention from its intended
 
 This gate explores how audiences form expectations from visual cues within the first moments of viewing, and why aligning that promise with the underlying content is critical for building trust and sustaining engagement.
 
-✅ **Gate 3 – The Audience is Scanning** [LINK](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/main/Gate%202_Every%20Image%20Makes%20A%20Promise.md)
+✅ **Gate 3 – The Audience is Scanning** [LINK](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/main/Gate%203_The%20Audience%20Is%20Scanning.md)
 
 This gate explores how audiences rapidly scan visual information before deciding whether to engage, and why reducing cognitive effort helps communicate the story more quickly and accurately.
+
+🚧 **Gate 4 – One Focal Point Beats Five Good Ideas**
+This gate explores how audiences prioritise visual information, and why establishing a clear focal point helps them quickly understand what matters most.
 
 🚧 **Additional Reasoning Gates** *(currently in development)*
 
