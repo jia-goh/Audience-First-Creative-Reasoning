@@ -81,6 +81,7 @@ This gate explores how audiences form expectations from visual cues within the f
 This gate explores how audiences rapidly scan visual information before deciding whether to engage, and why reducing cognitive effort helps communicate the story more quickly and accurately.
 
 🚧 **Gate 4 – One Focal Point Beats Five Good Ideas**
+
 This gate explores how audiences prioritise visual information, and why establishing a clear focal point helps them quickly understand what matters most.
 
 🚧 **Additional Reasoning Gates** *(currently in development)*
