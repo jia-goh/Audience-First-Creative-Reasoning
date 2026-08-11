@@ -32,7 +32,7 @@ The faster audiences can make sense of what they see, the greater the opportunit
 
 Audiences don't process every part of an image before making sense of it.
 
-When scanning quickly, they use the most immediately available visual signals to begin understanding what they see. They don't need to understand everything in the first moment. They need enough **Immediate Meaning** to make sense of the image quickly.
+When scanning quickly, they use the most immediately available visual signals to begin understanding what they see. They don't need to understand everything in the first moment. They need enough **_Immediate Meaning_** to make sense of the image quickly.
 
 **Immediate Meaning is the information an audience can understand at a glance, before looking more closely.**
 
