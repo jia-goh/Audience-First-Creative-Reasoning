@@ -80,7 +80,7 @@ This gate explores how audiences form expectations from visual cues within the f
 
 This gate explores how audiences rapidly scan visual information before deciding whether to engage, and why reducing cognitive effort helps communicate the story more quickly and accurately.
 
-✅ **Gate 4 – One Focal Point Beats Five Good Ideas** [LINK](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/44187724eb169619d795bfea455f8011efd888dd/Gate%204_A%20Focal%20Point%20Cuts%20Through%20Visual%20Noise.md)
+✅ **Gate 4 – One Focal Point Beats Five Good Ideas** [LINK](https://github.com/jia-goh/Audience-First-Creative-Reasoning/blob/main/Gate%204_A%20Focal%20Point%20Cuts%20Through%20Visual%20Noise.md)
 
 This gate explores how audiences prioritise visual information, and why establishing a clear focal point helps them quickly understand what matters most.
 
