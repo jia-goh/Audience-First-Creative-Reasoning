@@ -14,7 +14,7 @@ This is not about simplifying the image or reducing the number of elements. It i
 
 When one thing clearly comes first, the audience has a clear way into the image.
 
-When several elements compete to register first, they create **Visual Noise**. The audience may register that the image is busy, while little within it sticks.
+When several elements compete to register first, they create ***Visual Noise***. The audience may register that the image is busy, while little within it sticks.
 
 **Visual Noise is not about how much an image contains. It is about how much is competing to be seen first.**
 
