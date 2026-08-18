@@ -16,7 +16,7 @@ When one thing clearly comes first, the audience has a clear way into the image.
 
 When several elements compete to register first, they create ***Visual Noise***. The audience may register that the image is busy, while little within it sticks.
 
-**Visual Noise is not about how much an image contains. It is about how much is competing to be seen first.**
+> **Visual Noise is not about how much an image contains. It is about how much is competing to be seen first.**
 
 ## **👤 How the Audience Thinks**
 
@@ -40,7 +40,7 @@ Is there one clear point of attention, or are several elements competing for it?
 
 Does what registers first give the audience relevant context about the image?
 
-**Remember: Complexity is not the problem. Competition is.**
+> **Remember: Complexity is not the problem. Competition is.**
 
 ## **✨ Recommendation Framework**
 
@@ -54,7 +54,7 @@ Identify the element or visual unit that would provide the clearest, most meanin
 
 Identify the elements making equally strong claims on attention and preventing that first point from emerging clearly.
 
-**Don't start by asking what to remove. Start by asking what should come first.**
+> **Don't start by asking what to remove. Start by asking what should come first.**
 
 ## **🧠 Reviewer's Creed**
 
